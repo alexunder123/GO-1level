@@ -1,4 +1,4 @@
-module conf/config
+module my_mod
 
 go 1.18
 
