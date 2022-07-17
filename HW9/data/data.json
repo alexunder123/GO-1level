@@ -1,0 +1,11 @@
+{
+    "firstName" : "Петр",
+    "lastName" : "Петров",
+    "dateOfBirth" : "01.02.1983",
+    "address" : {
+        "street" : "ул. Грибоедова, д. 1, кв. 1",
+        "city" : "Москва",
+        "postalCode" : 123456
+    },
+    "homePage" : "https://ya.ru/"
+}
